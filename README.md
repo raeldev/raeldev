@@ -152,6 +152,10 @@ Conquistas Individuais:
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
+  </div>
+  <br/>
+  <br/>
+  <div>
     <img 
         align="left" 
         alt="CSS" 
@@ -176,10 +180,6 @@ Conquistas Individuais:
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-  </div>
-  <br/>
-  <br/>
-  <div>
     <img 
         align="left" 
         alt="Apache Kafka" 
@@ -203,6 +203,6 @@ Conquistas Individuais:
 </div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeldev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 <div>
-  <img style="padding-right: 10px;"  src="https://github-readme-stats.vercel.app/api?username=raeldev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img style="padding-right: 10px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=raeldev&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=raeldev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raeldev&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
 </div>
