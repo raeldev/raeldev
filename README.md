@@ -202,7 +202,3 @@ Conquistas Individuais:
 <br/>
 </div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeldev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=raeldev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raeldev&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
-</div>
